@@ -1,0 +1,12 @@
+public class ejercicioOnce
+{
+    public static void main(String[] args)
+    {
+        int poblacion = 312032486;
+        population = poblacion + (60*60*24*365*5)/7;
+        population = poblacion - (60*60*24*365*5)/13;
+        population = poblacion + (60*60*24*365*5)/45;
+        System.out.println(" Crecimiento total de la poblacion: ");
+        System.out.println(poblacion);
+    }
+}
